@@ -6,24 +6,27 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m constantly learning and improving my skills in web development, machine learning, and cloud computing.
 - 💬 Ask me about anything related to Python, JavaScript, or DevOps.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [subtledark@hunnu.edu.cn](mailto:subtledark@hunnu.edu.cn)
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
 ## 🔧 Technologies & Tools
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 ## 📈 GitHub Stats
 ![FadingVortex's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadingVortex&show_icons=true&theme=dark)
 
 ## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/FadingVortex)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:subtledark@hunnu.edu.cn)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-profile)
 
