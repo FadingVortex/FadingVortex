@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 ## 📈 GitHub Stats
 ![FadingVortex's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadingVortex&show_icons=true&theme=dark)
